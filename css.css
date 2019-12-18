@@ -13,6 +13,7 @@
 	background-image: url(https://www.uidownload.com/files/281/1018/536/blank-blue-button-icon.png);
 	background-size: cover;
 	border:none;
+	color: #ffff;
 }
 
 .button1{
@@ -25,6 +26,7 @@
 	background-image: url(https://www.wpclipart.com/blanks/buttons/glossy_buttons/glossy_button_blank_green_rectangle.png);
 	background-size: cover;
 	border:none;
+	color: #C31D0C;
 }
 
 .textview{
