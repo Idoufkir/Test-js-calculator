@@ -1,0 +1,49 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+.button{
+	width: 100px;
+	height: 100px;
+	font-size: 30px;
+	font-style: unset;
+	margin: 6px;
+	cursor: pointer;
+	background-image: url(https://www.uidownload.com/files/281/1018/536/blank-blue-button-icon.png);
+	background-size: cover;
+	border:none;
+}
+
+.button1{
+	width: 214px;
+	height: 70px;
+	font-size: 30px;
+	font-style: unset;
+	cursor: pointer;
+	margin: 6px;
+	background-image: url(https://www.wpclipart.com/blanks/buttons/glossy_buttons/glossy_button_blank_green_rectangle.png);
+	background-size: cover;
+	border:none;
+}
+
+.textview{
+	width: 425px;
+	height: 80px;
+	margin: 10px;
+	font-size: 40px;
+	padding: 6px;
+}
+
+.main{
+	position: absolute;
+	top: 15%;
+	left: 40%;
+	background: #F0F0F0;
+}
+.bg{
+	background-image: url(https://i.ytimg.com/vi/1FnGkJtQJDY/maxresdefault.jpg);
+	height: 937px;
+	width: 100%;
+	background-size: cover;
+}
