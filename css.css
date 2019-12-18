@@ -35,7 +35,11 @@
 	margin: 10px;
 	font-size: 40px;
 	padding: 6px;
-	border:none;
+	border: 2px;
+	border-radius: 25px;
+	border-color: #ffff;
+	background-color: #B1B1B1;
+
 }
 
 .main{
@@ -44,6 +48,7 @@
 	left: 40%;
 	background: #F0F0F0;
 	opacity: 90%;
+	border-radius: 10px;
 }
 .bg{
 	background-image: url(https://i.ytimg.com/vi/1FnGkJtQJDY/maxresdefault.jpg);
